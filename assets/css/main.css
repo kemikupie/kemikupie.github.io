@@ -3066,6 +3066,10 @@ input, select, textarea {
 			table.alt tbody tr:first-child td {
 				border-top-width: 1px;
 			}
+			table.alt tbody tr:first-child td img {
+				width: 100%;
+				height: 100%;
+			}
 
 			table.alt thead {
 				border-bottom: 0;
